@@ -4,7 +4,7 @@
 title: Poop
 description: fartguy fartguy fartguy
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://jvalram.github.io/jekyllBear/r" # the base hostname & protocol for your site
+url: "https://jvalram.github.io/jekyllBear/" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
